@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost:3308',
-	'username' => 'root',
+	'hostname' => 'pratoza.com',
+	'username' => 'u8961758_paci',
 	'password' => '',
-	'database' => 'pa_ci',
+	'database' => 'u8961758_paci',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
